@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Maricar and Eddie Jay//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:maricar-eddiejay-wedding-20261221@example.invalid
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Asia/Manila:20261221T100000
+DTEND;TZID=Asia/Manila:20261221T110000
+SUMMARY:Wedding of Maricar & Eddie Jay
+LOCATION:Quezon Province, Philippines
+DESCRIPTION:Wedding celebration of Maricar and Eddie Jay. Please confirm exact venue details.
+END:VEVENT
+END:VCALENDAR
